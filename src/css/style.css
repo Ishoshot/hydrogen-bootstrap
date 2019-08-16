@@ -1,0 +1,252 @@
+html body{
+	/*overflow-x:hidden !important;*/
+}
+
+.carousel-caption {
+	top:50%;
+}
+
+.facebook i{
+	background-color:#3b5998;
+	padding:5px;
+	width:30px;
+	color:#fff;
+}
+
+.instagram i{
+  	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+	background-color:#3f729b;
+	padding:5px;
+	width:30px;
+	color:#fff;
+}
+
+.twitter i{
+	background-color:#38A1F3;
+	padding:5px;
+	width:30px;
+	color:#fff;
+}
+
+.github i{
+	background-color:#211f1f;
+	padding:5px;
+	width:30px;
+	color:#fff;
+}
+
+input[type=search]{
+	width:40% !important;
+	transition-property: width;
+	transition-duration: 1s;
+	transition-timing-function: linear;
+}
+
+input[type=search]:focus{
+	width:100% !important;
+}
+
+.btn-sub{
+	background-color:#AD5CD6 !important;
+	color:#fff !important;
+}
+
+.btn-sub:hover{
+	background-color:#fff !important;
+	color:#AD5CD6 !important;
+}
+
+.bg-sub{
+	background-color:#AD5CD6 !important;
+	color:#fff !important;
+}
+
+.bg-nav{
+	background-color:#AD5CD6 !important;
+	color:#fff !important;
+}
+
+.nav-bg{
+	font-family: 'Helvetica';
+	background-color:#fff !important;
+}
+
+.nav-item a{
+	color:#000 !important;
+}
+
+.nav-d-bg{
+	background-color:#fff !important;
+}
+
+.dropdown-menu{
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+}
+
+.dropdown-menu {
+  min-width: 200px !important;
+}
+
+.dropdown-menu .dropdown-item{
+	padding-top:7px !important;
+	padding-bottom:7px !important;
+}
+
+.nav-d-bg .dropdown-item:hover{
+	transition:.8s all;
+	color:#fff !important;
+	background-color:#AD5CD6 !important;
+}
+
+i.fa-bars{
+	color:#AD5CD6 !important;
+	font-size:30px !important;
+}
+
+.btn-learn{
+	outline:2px solid #AD5CD6 !important;
+	border-radius:0px !important;
+	transition:.8s all !important;
+}
+
+.btn-learn:hover{
+	background-color:#AD5CD6 !important;
+	outline:1px solid #fff !important;
+	color:#fff !important;
+}
+
+
+.ci{
+	background-color:#AD5CD6 !important;
+	padding:20px;
+	border-radius:50%;
+	transition:.5s all;
+	transition-property:border-radius,background-color;
+	cursor:pointer;
+	transition-timing-function:ease-in-out;
+}
+
+.fb i{
+	color:#fff !important;
+	display: inline-block !important;
+    width: 80px !important;
+    height: 80px !important;
+    font-size: 32px !important;
+}
+
+.fb i:hover{
+	background-color:#fff !important;
+	color:#AD5CD6 !important;
+	display: inline-block !important;
+	border-radius:0px !important;
+    width: 80px !important;
+    height: 80px !important;
+    font-size: 32px !important;
+}
+
+.services{
+	background-color:#fff !important;
+}
+
+.badge-info{
+	background-color:#AD5CD6 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+	background-color:#AD5CD6 !important;
+}
+
+.border-down{
+	margin-top:3% !important;
+	margin-bottom:6% !important;
+	border-top-right-radius:1px !important;
+	border-top-left-radius:1px !important;
+	border-bottom-right-radius:1px !important;
+	border-bottom-left-radius:1px !important;
+	border-bottom:2px solid #AD5CD6 !important;
+}
+
+.marina-col{
+	color:#AD5CD6 !important;
+	margin-bottom:20px !important;
+}
+
+.advert{
+	text-align:center !important;
+	margin-top:10% !important;
+	background:url('../media/bg2.jpg') !important;
+	background-attachment:fixed !important;
+	background-position:center !important;
+	background-repeat:no-repeat !important;
+	padding:0px !important;
+	background-size:cover !important;
+	color:#fff !important;
+}
+
+.opacity{
+	padding:5% !important;
+	background-color:rgba(0,0,0,0.75) !important;
+}
+
+.footer{
+	background-color:#fff !important;
+}
+
+.footer a.nav-item{
+	color:#000 !important;
+	text-decoration: none !important;
+	font-family: 'helvetica' !important;
+	font-weight:bold !important;
+}
+
+
+
+
+
+
+
+.contact{
+	background:url('../media/bg5.jpg') !important;
+	background-position:center !important;
+	background-repeat:no-repeat !important;
+	padding:0px !important;
+	background-size:cover !important;
+	color:#fff !important;
+}
+
+.contact-btn{
+	background-color:#AD5CD6 !important;
+	color:#fff !important;
+	transition:.5s !important;
+}
+
+.contact-btn:hover{
+	background-color:inherit !important;
+	color:#fff !important;
+	transition:.5s all !important;
+}
+
+
+
+
+.about{
+	background:url('../media/bg3.jpg') !important;
+	background-position:center !important;
+	background-repeat:no-repeat !important;
+	padding:0px !important;
+	background-size:cover !important;
+	color:#fff !important;
+}
+
+.about-btn{
+	background-color:#AD5CD6 !important;
+	color:#fff !important;
+	transition:.5s !important;
+}
+
+.about-btn:hover{
+	background-color:inherit !important;
+	color:#fff !important;
+	transition:.5s all !important;
+}
